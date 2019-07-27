@@ -1,4 +1,4 @@
-
+// Matt is kool
 public class LinkedList {
 	/**
 	 * This constructor instantiates or initializes the list
